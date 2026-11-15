@@ -1,0 +1,8 @@
+baseURL = 'https://toka1000101.github.io/sg-vu-web/'
+locale = 'en-us'
+title = 'SenseGlove + Vrui Integration Docs'
+theme = 'hugo-book'
+
+[params]
+  BookSection = 'docs'
+  BookSearch = true
