@@ -1,6 +1,6 @@
 
 ---
-title: "Unity Setup"
+title: "Unity Setup for Meta Quest"
 weight: 1
 ---
 
